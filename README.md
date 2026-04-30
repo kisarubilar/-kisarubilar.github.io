@@ -11,5 +11,8 @@ Bienvenida/o a mi portafolio. Este proyecto es una vitrina de mis habilidades co
 ## 🛠️ Proyecto realizado por:
 **Kisa Rubilar Leal** - Diseñadora Gráfica & Full Stack Developer en formación.
 
+fokeo:
+https://github.com/kisarubilar/buffonico.github.io
+https://github.com/kisarubilar/Camilo-Bastian-Sanchez.github.io
 ---
 *Este proyecto es parte del desafío de Git/GitHub para FDSW.*
